@@ -2,10 +2,11 @@
 name: Improve existing docs
 about: Make a suggestion to improve our existing documentation.
 title: ''
-labels:
-- content
+labels: ''
 assignees: ''
+
 ---
+
 <!--
 HUBBERS BEWARE! THE GITHUB/DOCS REPO IS PUBLIC TO THE ENTIRE INTERNET. OPEN AN ISSUE IN GITHUB/DOCS-CONTENT https://github.com/github/docs-content/issues/new/choose INSTEAD.
 -->
